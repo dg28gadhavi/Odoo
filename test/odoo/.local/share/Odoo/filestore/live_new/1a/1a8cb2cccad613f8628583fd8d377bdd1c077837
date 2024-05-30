@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240309T052613Z - 17742@odoo-master
+DTSTART:20240309T053000Z
+DTEND:20240309T053600Z
+ATTENDEE:MAILTO:kaushik.sonecha@gmmpfaudler.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240309T052613Z
+DESCRIPTION:customer k tamara tya thi j laiye chiye rtd tc pg emf ni koi in
+ quiry aavse to kahisu
+DTSTAMP:20240309T052613Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

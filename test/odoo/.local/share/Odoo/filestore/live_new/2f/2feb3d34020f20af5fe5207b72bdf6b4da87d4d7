@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240406T072603Z - 33722@odoo-master
+DTSTART:20240406T073000Z
+DTEND:20240406T073500Z
+ATTENDEE:MAILTO:admin@gangotricalcium.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240406T072603Z
+DESCRIPTION:customer reguler aapj che inquiry  and next week ma inquiry aa
+ pse but visit nu pan kidhu che k ak var aavine mali jao
+DTSTAMP:20240406T072603Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

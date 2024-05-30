@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240313T054830Z - 19720@odoo-master
+DTSTART:20240313T060000Z
+DTEND:20240313T060400Z
+ATTENDEE:MAILTO:rameshg.patel@ammanngroup.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240313T054830Z
+DESCRIPTION:customer k march and che to atyare odit chalu che mitting hoy c
+ he next month ma inquiry aapsu
+DTSTAMP:20240313T054830Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

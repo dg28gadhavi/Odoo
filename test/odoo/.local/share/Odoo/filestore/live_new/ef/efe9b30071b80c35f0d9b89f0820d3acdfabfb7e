@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240406T112506Z - 98237@odoo-master
+DTSTART:20240406T113000Z
+DTEND:20240406T113300Z
+ATTENDEE:MAILTO:purchase1@gtbl.in.net
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240406T112505Z
+DESCRIPTION:customer k check karine kau inquiry close thai gai che k nahi t
+ ame monday call karo
+DTSTAMP:20240406T112506Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:quotation fowl up done
+END:VEVENT
+END:VCALENDAR

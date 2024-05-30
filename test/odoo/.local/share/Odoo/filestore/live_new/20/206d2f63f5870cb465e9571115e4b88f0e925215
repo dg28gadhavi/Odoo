@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240419T124718Z - 96302@odoo-master
+DTSTART:20240419T130000Z
+DTEND:20240419T130600Z
+ATTENDEE:MAILTO:purchase_ch@unimechindia.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240419T124718Z
+DESCRIPTION:customer k rtd\,tc usse thay che but kyare k atyare kai nathi n
+ ext week ma kai hase to moklse and aa varse 50 to 70 hajar no oder aapi sa
+ ke che
+DTSTAMP:20240419T124718Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

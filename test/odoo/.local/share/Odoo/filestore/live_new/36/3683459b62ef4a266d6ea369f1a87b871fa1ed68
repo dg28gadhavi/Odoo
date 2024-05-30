@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240330T064048Z - 3533@odoo-master
+DTSTART:20240330T070000Z
+DTEND:20240330T070400Z
+ATTENDEE:MAILTO:purchase.rajkot@bhavani.co.in
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240330T064048Z
+DESCRIPTION:customer k next month ma inquiry aapu ane company baju aavo to 
+ malta jajo
+DTSTAMP:20240330T064048Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

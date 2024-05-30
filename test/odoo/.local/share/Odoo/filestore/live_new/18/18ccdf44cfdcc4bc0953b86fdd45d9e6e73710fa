@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240418T092443Z - 39154@odoo-master
+DTSTART:20240418T093000Z
+DTEND:20240418T093500Z
+ATTENDEE:MAILTO:info@sufficeindustries.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240418T092443Z
+DESCRIPTION:customer k rtd\,tc\,pg emf usse thay che but atyare nathi next 
+ week ma  pg tc ni inquiry aapse
+DTSTAMP:20240418T092443Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

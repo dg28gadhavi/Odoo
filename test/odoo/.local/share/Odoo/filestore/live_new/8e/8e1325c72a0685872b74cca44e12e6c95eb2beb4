@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240313T114831Z - 42930@odoo-master
+DTSTART:20240313T120000Z
+DTEND:20240313T120500Z
+ATTENDEE:MAILTO:d.sharma@rpr.jspl.com/ devender.sharma@jindalsteel.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240313T114831Z
+DESCRIPTION:good response and ak po aavi gayo che but tc ni inquiry pan aap
+ i che
+DTSTAMP:20240313T114831Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

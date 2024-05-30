@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240330T065104Z - 65102@odoo-master
+DTSTART:20240330T070000Z
+DTEND:20240330T074300Z
+ATTENDEE:MAILTO:purchase.rajkot@bhavani.co.in
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240330T065104Z
+DESCRIPTION:customer k atyare kai inquiry nathi tc ni amuk time aavti hoy 
+  che have kai aavse to kesu
+DTSTAMP:20240330T065104Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

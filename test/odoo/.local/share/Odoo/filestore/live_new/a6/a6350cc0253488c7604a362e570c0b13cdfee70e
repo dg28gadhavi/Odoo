@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240307T060320Z - 25732@odoo-master
+DTSTART:20240307T063000Z
+DTEND:20240307T063700Z
+ATTENDEE:MAILTO:navneet.gupta@jci_hitachi.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240307T060320Z
+DESCRIPTION:customer k usse to thay che pan k tame ak var aavine purchase m
+ a malo mane mail kari do catalog
+DTSTAMP:20240307T060320Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling but mail done
+END:VEVENT
+END:VCALENDAR

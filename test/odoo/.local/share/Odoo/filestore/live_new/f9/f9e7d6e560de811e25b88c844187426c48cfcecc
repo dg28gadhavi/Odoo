@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240405T053710Z - 34472@odoo-master
+DTSTART:20240405T060000Z
+DTEND:20240405T060600Z
+ATTENDEE:MAILTO:store.prasanta@yahoo.in\, purchase.store@sursez.com\,purcha
+ sestore85@gmail.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240405T053710Z
+DESCRIPTION:customer k aa month ma inquiry aapu emf pg ni
+DTSTAMP:20240405T053710Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

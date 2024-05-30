@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240510T115018Z - 68830@odoo-master
+DTSTART:20240510T053000Z
+DTEND:20240510T061500Z
+ATTENDEE:MAILTO:app@aavadinstrument.com
+ATTENDEE:MAILTO:4bhsteelwires20@gmail.com
+ATTENDEE:MAILTO:mehulkhorasiya@inspiron.co.in
+CREATED:20240510T115018Z
+DESCRIPTION:talk for Novus product and silicon nitrated tube.\ndirector mee
+ ting in next month\,
+DTSTAMP:20240510T115018Z
+ORGANIZER;CN=Amit Patel:MAILTO:app@aavadinstrument.com
+SUMMARY:General Meeting
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240511T074622Z - 3697@odoo-master
+DTSTART:20240512T080000
+DTEND:20240512T180000
+ATTENDEE:MAILTO:aag@aavadinstrument.com
+ATTENDEE:MAILTO:app@aavadinstrument.com
+ATTENDEE:MAILTO: project@themisautomation.com
+CREATED:20240511T074622Z
+DESCRIPTION:Lead TO Opportunities Inquiry appointment / Plant Visit has Be
+ en Schedule Samples For Product  *Other :*
+DTSTAMP:20240511T074622Z
+ORGANIZER;CN=Ajay Gadhvi:MAILTO:aag@aavadinstrument.com
+SUMMARY:take aag with you
+END:VEVENT
+END:VCALENDAR

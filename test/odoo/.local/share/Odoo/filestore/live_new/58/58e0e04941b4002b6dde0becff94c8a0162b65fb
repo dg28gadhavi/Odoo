@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240228T112945Z - 90899@odoo-master
+DTSTART:20240228T113000Z
+DTEND:20240228T113500Z
+ATTENDEE:MAILTO:alfaengineer123@gmail.com
+ATTENDEE:MAILTO:ravatanjali1502@gmail.com
+CREATED:20240228T112945Z
+DESCRIPTION:good responce emni final price 680 sudhi che quotation repit se
+ nd mail 1-2 divas ma PO mokal se\nlabl switch ni enquiry che 10-15 Nos nex
+ t week ma enquiry mokal se
+DTSTAMP:20240228T112945Z
+LOCATION:HO
+ORGANIZER;CN=Anjali Ravat:MAILTO:ravatanjali1502@gmail.com
+SUMMARY:calling
+END:VEVENT
+END:VCALENDAR

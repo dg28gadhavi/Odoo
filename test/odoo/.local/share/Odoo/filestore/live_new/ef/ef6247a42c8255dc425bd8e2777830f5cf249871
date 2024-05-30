@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240420T062441Z - 7313@odoo-master
+DTSTART:20240420T063000Z
+DTEND:20240420T063700Z
+ATTENDEE:MAILTO:yogisales.ank@gmail.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240420T062441Z
+DESCRIPTION:customer k rate and delivery time maa thodu jaldi kari aapo and
+  rtd tc. reguler usse thay che 20 to 30 nos and inquiry pn AAPI CHE 50 NOS
+  NI RTD NI\naa varse 3 lakh no oder aapse
+DTSTAMP:20240420T062441Z
+LOCATION:HO
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:CALLING MAIL DONE
+END:VEVENT
+END:VCALENDAR

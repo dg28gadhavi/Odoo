@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240314T065847Z - 25411@odoo-master
+DTSTART:20240314T070000Z
+DTEND:20240314T070600Z
+ATTENDEE:MAILTO:manojyadav.gulaboils@outlook.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240314T065847Z
+DESCRIPTION:customer k visi mate aavine malo ak var new plant ma rtd\,tc\,p
+ g\, ni jarur thase
+DTSTAMP:20240314T065847Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

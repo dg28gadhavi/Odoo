@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240307T113515Z - 67866@odoo-master
+DTSTART:20240307T120000Z
+DTEND:20240307T120600Z
+ATTENDEE:MAILTO:d.sharma@rpr.jspl.com/ devender.sharma@jindalsteel.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240307T113515Z
+DESCRIPTION:customer sathe vat thai quotations mate k 2 divas ma thai jase 
+ PO
+DTSTAMP:20240307T113515Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:quotations calling done
+END:VEVENT
+END:VCALENDAR

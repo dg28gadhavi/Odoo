@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240318T062807Z - 55509@odoo-master
+DTSTART:20240318T063000Z
+DTEND:20240318T063300Z
+ATTENDEE:MAILTO:kpatel@calibrechem.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240318T062807Z
+DESCRIPTION:customer k atyare to kai nathi kai hase to kesu but redix na us
+ se kare che vadhare usse nathi
+DTSTAMP:20240318T062807Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

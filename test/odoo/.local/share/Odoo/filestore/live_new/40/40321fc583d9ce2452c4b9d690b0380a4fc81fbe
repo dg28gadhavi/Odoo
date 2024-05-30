@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240307T111343Z - 56346@odoo-master
+DTSTART:20240307T113000Z
+DTEND:20240307T113300Z
+ATTENDEE:MAILTO:kirit.shah@desmaindia.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240307T111343Z
+DESCRIPTION:customer k next month ma visit kari jao ak var  atyare march a
+ nd che to koi nahi male
+DTSTAMP:20240307T111343Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240402T111300Z - 62616@odoo-master
+DTSTART:20240402T113000Z
+DTEND:20240402T113300Z
+ATTENDEE:MAILTO:pareshsagathia@dhanuka.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240402T111300Z
+DESCRIPTION:customer k aa  varas ma tamane order aapisu tc\, pg na next we
+ ek ma inquiry aapse
+DTSTAMP:20240402T111300Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

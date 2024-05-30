@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240419T050355Z - 50688@odoo-master
+DTSTART:20240419T053000Z
+DTEND:20240419T053400Z
+ATTENDEE:MAILTO:aldiecastindustries@gmail.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240419T050355Z
+DESCRIPTION:customer k rtd\,tc\,pg usse thay che but kyarek jaruru hoy and 
+ next week ma inquiry aapse
+DTSTAMP:20240419T050355Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

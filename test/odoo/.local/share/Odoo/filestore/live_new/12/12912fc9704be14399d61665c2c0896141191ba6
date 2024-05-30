@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240509T065516Z - 21770@odoo-master
+DTSTART:20240520T080000
+DTEND:20240520T180000
+ATTENDEE:MAILTO:mnp@aavadinstrument.com
+ATTENDEE:MAILTO:nilesh.jambukiya@srf.com
+CREATED:20240509T065516Z
+DESCRIPTION:Lead TO Opportunities Inquiry appointment / Plant Visit has Be
+ en Schedule Samples For Product  *Other :*
+DTSTAMP:20240509T065516Z
+ORGANIZER;CN=Ajay Gadhvi:MAILTO:aag@aavadinstrument.com
+SUMMARY:quotation follow-up
+END:VEVENT
+END:VCALENDAR

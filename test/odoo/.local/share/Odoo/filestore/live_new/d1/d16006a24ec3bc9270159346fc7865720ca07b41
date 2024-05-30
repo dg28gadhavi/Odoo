@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240314T060227Z - 33605@odoo-master
+DTSTART:20240314T063000Z
+DTEND:20240314T063300Z
+ATTENDEE:MAILTO:abhiranjan.kumar@gspbl.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240314T060227Z
+DESCRIPTION:customer k usse thay che pan ame bummer\, temtions \,na usse ka
+ riye chiye wika mate vat kari che
+DTSTAMP:20240314T060227Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240318T090628Z - 57403@odoo-master
+DTSTART:20240318T093000Z
+DTEND:20240318T093300Z
+ATTENDEE:MAILTO:purchase@ratnadeepmetal.com\,paresh.polekar@ratnamani.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240318T090628Z
+DESCRIPTION:customer k atyare odit mitting hoy che to next month ma inquiry
+  aapisu
+DTSTAMP:20240318T090628Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

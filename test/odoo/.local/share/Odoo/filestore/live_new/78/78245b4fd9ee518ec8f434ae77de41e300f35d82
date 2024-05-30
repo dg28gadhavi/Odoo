@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240424T100640Z - 20253@odoo-master
+DTSTART:20240424T103000Z
+DTEND:20240424T103700Z
+ATTENDEE:MAILTO:electrical@cholaturbo.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240424T100640Z
+DESCRIPTION:customer k banglor ma koino refrunce aapo ane ak mitting visit 
+ kari lo rtd\,tc\,emf\,usse thay che and\naa varse 3\,5 lakh no buissnes aa
+ pse 2\,3 mahine new project hoy che
+DTSTAMP:20240424T100640Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

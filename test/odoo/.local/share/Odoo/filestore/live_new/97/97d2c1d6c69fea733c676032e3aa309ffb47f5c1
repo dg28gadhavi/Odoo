@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240420T093441Z - 24492@odoo-master
+DTSTART:20240420T100000Z
+DTEND:20240420T100400Z
+ATTENDEE:MAILTO:ashwin_shrivas@nsail.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240420T093441Z
+DESCRIPTION:customer thi vat thai k inquiry moklse and rtd\,tc pg usse thay
+  che
+DTSTAMP:20240420T093441Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

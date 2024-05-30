@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240521T060137Z - 64698@odoo-master
+DTSTART:20240522T060000Z
+DTEND:20240522T070000Z
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+ATTENDEE:MAILTO:Aditya.kll@sintexindia.co.in
+CREATED:20240521T060137Z
+DESCRIPTION:Dear SIr\,\nMy self Mahesh Gadhavi From Aavad instrument Privat
+ e Limited \, tomorrow on 22/05/2024. i am planning to visit at your plant.
+  for instrument regarding.
+DTSTAMP:20240521T060137Z
+LOCATION:kalol
+ORGANIZER;CN=Mahesh Gadhvi:MAILTO:sales@aavadinstrument.com
+SUMMARY:Planning for Visit at your site for Instrument Regarding.
+END:VEVENT
+END:VCALENDAR

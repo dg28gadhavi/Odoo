@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240308T100814Z - 25207@odoo-master
+DTSTART:20240308T103000Z
+DTEND:20240308T103600Z
+ATTENDEE:MAILTO:avinashjamadagni@bluestarindia.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240308T100814Z
+DESCRIPTION:customer k tame purchase ma vat  karo sagar bhai ne hu product
+ ion ma chu but mail kari do mane kai hase to kesu
+DTSTAMP:20240308T100814Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240401T065555Z - 33583@odoo-master
+DTSTART:20240401T070000Z
+DTEND:20240401T070500Z
+ATTENDEE:MAILTO:yadavrakesh487@gmail.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240401T065555Z
+DESCRIPTION:good response customer k mare rtd\,tc\,tw\,emf ni  jarur che i
+ nquiry mail kare che
+DTSTAMP:20240401T065555Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

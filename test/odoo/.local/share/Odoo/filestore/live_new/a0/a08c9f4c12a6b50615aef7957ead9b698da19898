@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240406T065301Z - 67241@odoo-master
+DTSTART:20240406T070000Z
+DTEND:20240406T070500Z
+ATTENDEE:MAILTO:purchase@epp.co.in
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240406T065301Z
+DESCRIPTION:customer k amare usse thay che but k next week ma call karjo an
+ e visit nu plan kariye
+DTSTAMP:20240406T065301Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

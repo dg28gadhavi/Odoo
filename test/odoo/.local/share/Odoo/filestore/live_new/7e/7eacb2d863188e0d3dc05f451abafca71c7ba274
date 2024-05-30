@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240305T114555Z - 14386@odoo-master
+DTSTART:20240305T120000Z
+DTEND:20240305T121000Z
+ATTENDEE:MAILTO:anilgohel@sagbidaj.org\,anand@nddb.coop
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240305T114555Z
+DESCRIPTION:reception ma vat thai k atyare koi call nathi upadtu mitting ch
+ e to tame mail yato what sup kari do catalog
+DTSTAMP:20240305T114555Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and mail done
+END:VEVENT
+END:VCALENDAR

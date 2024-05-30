@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240429T094453Z - 29928@odoo-master
+DTSTART:20240429T100000Z
+DTEND:20240429T100400Z
+ATTENDEE:MAILTO:ritesh.dd@bestvaluechem.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240429T094453Z
+DESCRIPTION:customer k manishbhai thi vat thay che but visit mate kidhu che
+  ak var aavi ne mali jao and aa varse \,2\,3 lakh no buissenes apse
+DTSTAMP:20240429T094453Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

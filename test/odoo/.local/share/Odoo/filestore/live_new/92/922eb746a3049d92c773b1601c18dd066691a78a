@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240418T050922Z - 24405@odoo-master
+DTSTART:20240418T053000Z
+DTEND:20240418T053400Z
+ATTENDEE:MAILTO:ascentengg08@gmail.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240418T050922Z
+DESCRIPTION:good response and rtd\,tc\,pg\, reguler monthly 10 to 15 nos us
+ se thay che and rtd\,tc ni inquiry aapse ajje
+DTSTAMP:20240418T050922Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

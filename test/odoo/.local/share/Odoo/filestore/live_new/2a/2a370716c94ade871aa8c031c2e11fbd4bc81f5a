@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240410T053910Z - 31192@odoo-master
+DTSTART:20240410T060000Z
+DTEND:20240410T060400Z
+ATTENDEE:MAILTO:paneldivision@rajoo.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240410T053910Z
+DESCRIPTION:customer k amare rtd\,tc\,pg\,vadhare usse thay che but ak var 
+ visit kari jao purchase sathe
+DTSTAMP:20240410T053910Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

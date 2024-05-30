@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240402T050610Z - 97983@odoo-master
+DTSTART:20240402T053000Z
+DTEND:20240402T053400Z
+ATTENDEE:MAILTO:bstores@lnjb.com/nilesh.shah@lnjb.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240402T050610Z
+DESCRIPTION:customer k usse thay che but visit mate aavine malo ak var kale
+  kidhu che visit mate
+DTSTAMP:20240402T050610Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done visit plan
+END:VEVENT
+END:VCALENDAR

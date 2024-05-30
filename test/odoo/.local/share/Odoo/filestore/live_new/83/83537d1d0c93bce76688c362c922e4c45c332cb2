@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240419T065334Z - 35780@odoo-master
+DTSTART:20240419T070000Z
+DTEND:20240419T070600Z
+ATTENDEE:MAILTO:Shubhamparmar@truking.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240419T065334Z
+DESCRIPTION:good response but rtd\,tc\,pg\,emf usse thay che and next week 
+ ma rtd pg ni inquiry aapse monthly rtd 15 to 20 nos usse  thay che and aa
+  varse 1 to 2 lakh no business aapi sake che
+DTSTAMP:20240419T065334Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

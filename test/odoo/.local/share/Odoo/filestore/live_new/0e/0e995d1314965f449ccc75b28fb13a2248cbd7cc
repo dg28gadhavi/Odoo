@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240307T101604Z - 40428@odoo-master
+DTSTART:20240307T103000Z
+DTEND:20240307T103500Z
+ATTENDEE:MAILTO:ankit.patel@desma.biz
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240307T101604Z
+DESCRIPTION:customer k atyare march and che to kai inquiry nathi next month
+  ma call karjo
+DTSTAMP:20240307T101604Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and mail done
+END:VEVENT
+END:VCALENDAR

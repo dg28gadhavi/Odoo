@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240304T062340Z - 47376@odoo-master
+DTSTART:20240304T063000Z
+DTEND:20240304T063500Z
+ATTENDEE:MAILTO:purchase@ipsumlifesciences.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240304T062340Z
+DESCRIPTION:good responce and quotations mate call done ane temp controler 
+ ni inquiry aa week ma aapse
+DTSTAMP:20240304T062340Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:quotations and calling done
+END:VEVENT
+END:VCALENDAR

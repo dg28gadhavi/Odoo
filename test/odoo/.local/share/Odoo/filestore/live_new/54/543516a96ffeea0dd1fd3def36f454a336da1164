@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240318T044715Z - 21443@odoo-master
+DTSTART:20240318T050000Z
+DTEND:20240318T120000Z
+ATTENDEE:MAILTO:rgouda@unominda.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240318T044715Z
+DESCRIPTION:visit and inquiry done but good response  emf ni 1 nos inquiry
+  aapi che
+DTSTAMP:20240318T044715Z
+LOCATION:bahucharaji
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and visit done
+END:VEVENT
+END:VCALENDAR

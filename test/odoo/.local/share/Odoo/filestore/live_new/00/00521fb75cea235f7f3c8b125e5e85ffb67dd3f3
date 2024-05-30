@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240418T061527Z - 4039@odoo-master
+DTSTART:20240418T063000Z
+DTEND:20240418T063400Z
+ATTENDEE:MAILTO:pareeka2@shreecement.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240418T061527Z
+DESCRIPTION:customer k rtd\,tc\,pg\,emf usse thay che but atyare kai nathi 
+ next time inquiry aapse monthly 10 to 20 nos usse thay che
+DTSTAMP:20240418T061527Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

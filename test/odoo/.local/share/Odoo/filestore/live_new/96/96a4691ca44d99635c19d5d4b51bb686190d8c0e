@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240307T104353Z - 94490@odoo-master
+DTSTART:20240307T110000Z
+DTEND:20240307T110800Z
+ATTENDEE:MAILTO:hemant.modi@desmaindia.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240307T104353Z
+DESCRIPTION:customer k tamari catalog mail and whatsup kari do hu joi lavu 
+ kai inquiry hoy to moklu
+DTSTAMP:20240307T104353Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and mail done
+END:VEVENT
+END:VCALENDAR

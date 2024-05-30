@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240423T110152Z - 71452@odoo-master
+DTSTART:20240423T113000Z
+DTEND:20240423T113600Z
+ATTENDEE:MAILTO:harshil@eltech.in
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240423T110152Z
+DESCRIPTION:customer k tc ni inquiry aapse 1\,2 divas ma and rajat thi vat
+   thay che\nand next month ma inquiry rtd\,emf pg ni aapse
+DTSTAMP:20240423T110152Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

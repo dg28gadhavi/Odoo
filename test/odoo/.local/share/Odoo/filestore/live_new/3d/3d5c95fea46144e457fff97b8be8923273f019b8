@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240419T073521Z - 3268@odoo-master
+DTSTART:20240419T080000Z
+DTEND:20240419T080700Z
+ATTENDEE:MAILTO:prashant@elemecheng.in
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240419T073521Z
+DESCRIPTION:good response and rtd\,tc\,pg\,emf usse thay che project na dep
+ end pr inquiry aave che\nand next week ma visit mate kidhu che k aavine ma
+ lo rtd\,tc aapdi pase thi le che pg emf hanival na usse kare che aa varse 
+ 2 to 3 lakh no oder aapi sake che
+DTSTAMP:20240419T073521Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

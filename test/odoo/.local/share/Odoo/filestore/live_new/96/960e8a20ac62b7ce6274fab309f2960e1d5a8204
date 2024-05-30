@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240422T095249Z - 30607@odoo-master
+DTSTART:20240422T100000Z
+DTEND:20240422T100500Z
+ATTENDEE:MAILTO:sparkautomation15@gmail.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240422T095249Z
+DESCRIPTION:good response and rtd\,tc\,pg\,emf reguler usse thay che emf ni
+  inquiry aaje aapse and aa varse 2\,3 lakh no buissnes aapse
+DTSTAMP:20240422T095249Z
+LOCATION:HO
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:CALLING MAIL DONE
+END:VEVENT
+END:VCALENDAR

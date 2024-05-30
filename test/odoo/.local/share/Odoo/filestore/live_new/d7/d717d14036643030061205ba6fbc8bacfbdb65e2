@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240308T113704Z - 8583@odoo-master
+DTSTART:20240308T120000Z
+DTEND:20240308T120300Z
+ATTENDEE:MAILTO:hardik.thakkar@arvind.in
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240308T113704Z
+DESCRIPTION:customer k inquiry aavti hoy che catalog mail kari do next week
+  ma ak var call karjo
+DTSTAMP:20240308T113704Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

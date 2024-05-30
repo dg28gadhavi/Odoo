@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240318T102019Z - 483@odoo-master
+DTSTART:20240318T103000Z
+DTEND:20240318T103300Z
+ATTENDEE:MAILTO:sandip.patel@havmor.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240318T102019Z
+DESCRIPTION:customer k next month ma visit kari jao ak var atyare odit mitt
+ ing chale che
+DTSTAMP:20240318T102019Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240520T072432Z - 75374@odoo-master
+DTSTART:20240521T050000Z
+DTEND:20240521T060000Z
+ATTENDEE:MAILTO:app@aavadinstrument.com
+ATTENDEE:MAILTO:dharmendra@chemprosys.com
+CREATED:20240520T072432Z
+DESCRIPTION:Lead TO Opportunities Inquiry appointment / Plant Visit has Be
+ en Schedule Samples For Product  *Other :*
+DTSTAMP:20240520T072432Z
+ORGANIZER;CN=Amit Patel:MAILTO:app@aavadinstrument.com
+SUMMARY:Fro RTD Sensor\, TC\, Electromagnetic flow meter and calibration
+END:VEVENT
+END:VCALENDAR

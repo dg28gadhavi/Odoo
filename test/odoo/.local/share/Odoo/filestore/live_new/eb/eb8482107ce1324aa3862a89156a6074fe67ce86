@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240522T102120Z - 74448@odoo-master
+DTSTART:20240523T103000Z
+DTEND:20240523T113000Z
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+ATTENDEE:MAILTO:gen.purchase@ratnatris.com
+CREATED:20240522T102120Z
+DESCRIPTION:Dear sir planning to visit your plant regarding instrument like
+  RTD / Thermocouple / Flowmeter
+DTSTAMP:20240522T102120Z
+ORGANIZER;CN=Mahesh Gadhvi:MAILTO:sales@aavadinstrument.com
+SUMMARY:for instrument Regarding
+END:VEVENT
+END:VCALENDAR

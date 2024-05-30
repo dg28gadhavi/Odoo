@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240420T045235Z - 82278@odoo-master
+DTSTART:20240420T050000Z
+DTEND:20240420T050400Z
+ATTENDEE:MAILTO:pratikapatel1987@gmail.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240420T045235Z
+DESCRIPTION:customer k ayare to kai nathi pn next month ma new plant ma bad
+ hij product lagse to tamari pase thi lesu and aa varse 1 to 2 lakh no oder
+  aapse
+DTSTAMP:20240420T045235Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

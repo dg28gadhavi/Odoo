@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240308T073515Z - 31705@odoo-master
+DTSTART:20240308T080000Z
+DTEND:20240308T080600Z
+ATTENDEE:MAILTO:k.subramanyam@cadilapharma.co.in
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240308T073515Z
+DESCRIPTION:good response but visit mate kidhu che next week ma rtd\,tc\,us
+ se thay che
+DTSTAMP:20240308T073515Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

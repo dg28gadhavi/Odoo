@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240308T064026Z - 35157@odoo-master
+DTSTART:20240308T070000Z
+DTEND:20240308T070300Z
+ATTENDEE:MAILTO:Pranav.Patwa@cadilapharma.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240308T064026Z
+DESCRIPTION:customer k atyare inquiry nathi aavti kai hase to kesu but next
+  month ma new plan nu kam chalu thase to kesu
+DTSTAMP:20240308T064026Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240307T094107Z - 73332@odoo-master
+DTSTART:20240307T100000Z
+DTEND:20240307T100800Z
+ATTENDEE:MAILTO:kmiglani@sisecam.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240307T094107Z
+DESCRIPTION:good response but tya rtd tc pg vadhare usse thay che to k tame
+  next week ma visit mate malo
+DTSTAMP:20240307T094107Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and mail done
+END:VEVENT
+END:VCALENDAR

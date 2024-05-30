@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240420T051412Z - 41219@odoo-master
+DTSTART:20240420T053000Z
+DTEND:20240420T053600Z
+ATTENDEE:MAILTO:production@flowtech-instruments.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240420T051412Z
+DESCRIPTION:customer k me potano business chalu karyo che flowe level no to
+  k mare rtd\,tc\,pg ni inquiry aavti hoy che next time aapse and aa varse 
+ 2 lakh no oder aapse
+DTSTAMP:20240420T051412Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

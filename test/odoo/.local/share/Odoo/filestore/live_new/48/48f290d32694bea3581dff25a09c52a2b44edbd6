@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240306T072805Z - 71095@odoo-master
+DTSTART:20240306T073000Z
+DTEND:20240306T073700Z
+ATTENDEE:MAILTO:kkmaheshwari@hindustangum.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240306T072805Z
+DESCRIPTION:customer k amare jarur to hoy che but tamari catalog mail kari 
+ do inquiry aave to moklise
+DTSTAMP:20240306T072805Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and mail done
+END:VEVENT
+END:VCALENDAR

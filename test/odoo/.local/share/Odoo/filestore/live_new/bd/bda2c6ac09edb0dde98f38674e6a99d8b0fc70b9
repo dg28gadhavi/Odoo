@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240516T132106Z - 53867@odoo-master
+DTSTART:20240515T050000Z
+DTEND:20240515T060000Z
+ATTENDEE:MAILTO:app@aavadinstrument.com
+ATTENDEE:MAILTO:project.cws@rediffmail.com
+CREATED:20240516T132106Z
+DESCRIPTION:Customer doing ETP STP related project of Lodha consultant .\nG
+ ive our document and credential for AAVAD make flow meter approval in Lodh
+ a consultant.
+DTSTAMP:20240516T132106Z
+ORGANIZER;CN=Amit Patel:MAILTO:app@aavadinstrument.com
+SUMMARY:Visit  - CWWS india
+END:VEVENT
+END:VCALENDAR

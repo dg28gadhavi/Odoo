@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240422T062505Z - 42907@odoo-master
+DTSTART:20240422T063000Z
+DTEND:20240422T063400Z
+ATTENDEE:MAILTO:purchase@chamunda.in
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240422T062505Z
+DESCRIPTION:aa varse 2 lakh no buissnes aapi sake che and rtd tc pg usse th
+ ay che next week ma inquiry aapse
+DTSTAMP:20240422T062505Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

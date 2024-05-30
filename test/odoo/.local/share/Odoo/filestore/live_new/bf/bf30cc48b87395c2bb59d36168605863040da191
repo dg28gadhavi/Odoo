@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240425T103850Z - 43090@odoo-master
+DTSTART:20240425T110000Z
+DTEND:20240425T110400Z
+ATTENDEE:MAILTO:info@revaindustries.co
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240425T103850Z
+DESCRIPTION:customer k atyare pg ni inquiry che but ak var visit kari jao u
+ sse thay che tc pg 1\,2 divas sudhi ma pg ni inquiry aapse
+DTSTAMP:20240425T103850Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240425T065213Z - 37571@odoo-master
+DTSTART:20240425T070000Z
+DTEND:20240425T070400Z
+ATTENDEE:MAILTO:purchase1@senormetals.in
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240425T065213Z
+DESCRIPTION:customer k kyarek kharab thay to jarur pade nake vadhare usse n
+ athi and wika ma pn vat kari che kai hase to kese
+DTSTAMP:20240425T065213Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

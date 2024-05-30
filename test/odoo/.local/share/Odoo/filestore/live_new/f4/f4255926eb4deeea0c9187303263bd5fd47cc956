@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240402T105240Z - 56587@odoo-master
+DTSTART:20240402T110000Z
+DTEND:20240402T110300Z
+ATTENDEE:MAILTO:kishan.savaliya@ctxls.com\,purchase@ctxls.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240402T105240Z
+DESCRIPTION:customer k usse to thay che pan hu nathi joto instrument  kevi
+ n bhai jove che number tx msg karse
+DTSTAMP:20240402T105240Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

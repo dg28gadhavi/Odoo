@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240305T104258Z - 410@odoo-master
+DTSTART:20240305T110000Z
+DTEND:20240305T110400Z
+ATTENDEE:MAILTO:purchase2@isotexcorp.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240305T104258Z
+DESCRIPTION:customer k atyare march and che to kai inquiry nathi next month
+  ma ak var visit kari jao
+DTSTAMP:20240305T104258Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and mail done
+END:VEVENT
+END:VCALENDAR

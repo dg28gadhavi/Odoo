@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240425T063456Z - 15178@odoo-master
+DTSTART:20240425T070000Z
+DTEND:20240425T070600Z
+ATTENDEE:MAILTO:jblbpl@gmail.com\, jaibalajigroup@rediffmail.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240425T063456Z
+DESCRIPTION:customer k rtd\,tc\,pg\, usse thay che and inquiry aavej che bu
+ t prise ma kari aapjo to aa varse 2\,3 lakhno buissnes aapse\nnext month m
+ a inquiry aapse
+DTSTAMP:20240425T063456Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

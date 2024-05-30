@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240423T091420Z - 1533@odoo-master
+DTSTART:20240423T093000Z
+DTEND:20240423T093400Z
+ATTENDEE:MAILTO:pur2@sabardairy.coop
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240423T091420Z
+DESCRIPTION:customer k inquiry aavti hoy che but ak var visit kari jao and 
+ emf ni inquiry aapse 1\,2 divas ma and varse 1 lakh no buissnes aapse
+DTSTAMP:20240423T091420Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240305T071051Z - 41204@odoo-master
+DTSTART:20240305T073000Z
+DTEND:20240305T073300Z
+ATTENDEE:MAILTO:anand@kadamenviro.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240305T071051Z
+DESCRIPTION:customer k atyare kai inquiry nathi ane tamare tya thi koi visi
+ t kari gayu che aavse to kesu
+DTSTAMP:20240305T071051Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and mail done
+END:VEVENT
+END:VCALENDAR

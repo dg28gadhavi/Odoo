@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240422T055201Z - 41436@odoo-master
+DTSTART:20240422T060000Z
+DTEND:20240422T060500Z
+ATTENDEE:MAILTO:engineering@kaplife.co.in
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240422T055201Z
+DESCRIPTION:rtd\,tc\,redix na usse kare che and next month thi aapn ne inqu
+ iry aavse and aa varse 1 lakh jevo buissnes aapse
+DTSTAMP:20240422T055201Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

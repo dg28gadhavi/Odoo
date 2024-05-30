@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240305T055506Z - 9487@odoo-master
+DTSTART:20240305T060000Z
+DTEND:20240305T060500Z
+ATTENDEE:MAILTO:karan.choksi@kanoriachem.com\,purchaseank@kanoriachem.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240305T055506Z
+DESCRIPTION:good response but k next week ma inquiry aave to moklis
+DTSTAMP:20240305T055506Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and mail done
+END:VEVENT
+END:VCALENDAR

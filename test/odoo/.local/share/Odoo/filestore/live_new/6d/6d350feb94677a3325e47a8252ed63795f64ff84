@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240511T070446Z - 12081@odoo-master
+DTSTART:20240511T073000Z
+DTEND:20240511T083000Z
+ATTENDEE:MAILTO:mayurrudach75@gmail.com
+CREATED:20240511T070446Z
+DESCRIPTION:Lead TO Opportunities Inquiry appointment / Plant Visit has Be
+ en Schedule Samples For Product  *Other :*
+DTSTAMP:20240511T070446Z
+ORGANIZER;CN=Ajay Gadhvi:MAILTO:aag@aavadinstrument.com
+SUMMARY:madeinindia@aavadinstrument.co.in's opportunity
+END:VEVENT
+END:VCALENDAR

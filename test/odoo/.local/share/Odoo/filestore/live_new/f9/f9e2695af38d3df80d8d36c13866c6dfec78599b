@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240401T124010Z - 92503@odoo-master
+DTSTART:20240401T130000Z
+DTEND:20240401T130400Z
+ATTENDEE:MAILTO:electrical@ctxls.com\,birbar.das@ctxls.com
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240401T124010Z
+DESCRIPTION:customer k temtion na usse kariye che pan next week ma tamne in
+ quiry aapu kai aave to
+DTSTAMP:20240401T124010Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

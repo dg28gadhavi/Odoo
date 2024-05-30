@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240422T103917Z - 77019@odoo-master
+DTSTART:20240422T110000Z
+DTEND:20240422T110400Z
+ATTENDEE:MAILTO:jignesh@dynemix.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240422T103917Z
+DESCRIPTION:rtd\,tc\,emf\, usse thay che and next week ma emf mate sample l
+ aine aao malva\naa varse 1\,2 lakh no buissnes aapse
+DTSTAMP:20240422T103917Z
+LOCATION:HO
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:CALLING MAIL DONE
+END:VEVENT
+END:VCALENDAR

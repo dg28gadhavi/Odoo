@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240304T114041Z - 12180@odoo-master
+DTSTART:20240304T120000Z
+DTEND:20240304T120400Z
+ATTENDEE:MAILTO:vinayak.bhate@nrail.com 
+ATTENDEE:MAILTO:aavadsales@gmail.com
+CREATED:20240304T114041Z
+DESCRIPTION:customer k inquiry to hoy che pan nani moti aave che local thi 
+ mangai ye che next time aave to moklis
+DTSTAMP:20240304T114041Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:aavadsales@gmail.com
+SUMMARY:calling and mail done
+END:VEVENT
+END:VCALENDAR

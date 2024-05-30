@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240424T051510Z - 28121@odoo-master
+DTSTART:20240424T053000Z
+DTEND:20240424T053500Z
+ATTENDEE:MAILTO:jagdish.singh@gardenvareli.com\,jagdish_gardencp@rediffmail
+ .com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240424T051510Z
+DESCRIPTION:next week ma inquiry moklse and 1 lakh sudhino buissnes aapse
+DTSTAMP:20240424T051510Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240418T094214Z - 41630@odoo-master
+DTSTART:20240418T100000Z
+DTEND:20240418T100600Z
+ATTENDEE:MAILTO:info@svenergysystems.com
+ATTENDEE:MAILTO:sales@aavadinstrument.com
+CREATED:20240418T094214Z
+DESCRIPTION:customer k usse to thay che but 1\,2 divas ma aapdi factary vis
+ it mate aavse mr.satya sir\nand new project aavano che next month ma to rt
+ d\,tc\,pg emf ni aapse
+DTSTAMP:20240418T094214Z
+LOCATION:ho
+ORGANIZER;CN=Naresh Chauhan:MAILTO:sales@aavadinstrument.com
+SUMMARY:calling mail done
+END:VEVENT
+END:VCALENDAR
